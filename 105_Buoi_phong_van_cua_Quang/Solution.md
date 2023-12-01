@@ -1,1 +1,1 @@
-**Solution**: Ngoại trừ $5^{0},5^{1}$ thì ta dễ dàng thấy được $5^{2},5^{3},5^{4},...,5^{n}$ đều có dạng “…25” nên đối với n lớn hơn 1 thì 2 chữ số tận cùng của 5n là 25, còn nếu n = 1 thì kết quả là 5, còn n = 0 thì kết quả là 1.
+**Solution**: Ngoại trừ $5^{0},5^{1}$ thì ta dễ dàng thấy được $5^{2},5^{3},5^{4},...,5^{n}$ đều có dạng “…25” nên đối với n lớn hơn 1 thì 2 chữ số tận cùng của $5^{n}$ là 25, còn nếu n = 1 thì kết quả là 5, còn n = 0 thì kết quả là 1.
