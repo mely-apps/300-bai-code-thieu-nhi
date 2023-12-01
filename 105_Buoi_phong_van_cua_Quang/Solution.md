@@ -1,0 +1,1 @@
+Solution: Ngoại trừ 50,51 thì ta dễ dàng thấy được 52,53,54,...,5n đều có dạng “…25” nên đối với n lớn hơn 1 thì 2 chữ số tận cùng của 5n là 25, còn nếu n = 1 thì kết quả là 5, còn n = 0 thì kết quả là 1.
